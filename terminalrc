@@ -1,3 +1,8 @@
+[Configuration]
+ColorForeground=#e6e1dc
+ColorBackground=#2b2b2b
+ColorCursor=#e6e1dc
+ColorPalette=#2b2b2b2b2b2b;#dada49493939;#a5a5c2c26161;#ffffc6c66d6d;#6d6d9c9cbebe;#b6b6b3b3ebeb;#51519f9f5050;#e6e6e1e1dcdc;#5a5a64647e7e;#cccc78783333;#23b2d189022a;#df92f4030000;#d4d4cfcfc9c9;#f4f4f1f1eded;#bcbc94945858;#f9f9f7f7f3f3
 MiscAlwaysShowTabs=FALSE
 MiscBell=FALSE
 MiscBordersDefault=TRUE
@@ -14,10 +19,4 @@ MiscTabCloseButtons=TRUE
 MiscTabCloseMiddleClick=TRUE
 MiscTabPosition=GTK_POS_TOP
 MiscHighlightUrls=TRUE
-FontName=Monaco for Powerline 16
-BackgroundMode=TERMINAL_BACKGROUND_TRANSPARENT
-BackgroundDarkness=1.000000
-ColorForeground=#e6e1dc
-ColorBackground=#2b2b2b
-ColorCursor=#e6e1dc
-ColorPalette=#2b2b2b2b2b2b;#dada49493939;#a5a5c2c26161;#ffffc6c66d6d;#6d6d9c9cbebe;#b6b6b3b3ebeb;#51519f9f5050;#e6e6e1e1dcdc;#5a5a64647e7e;#cccc78783333;#70bdf3d557fe;#fef8ffff0e56;#d4d4cfcfc9c9;#f4f4f1f1eded;#bcbc94945858;#f9f9f7f7f3f3
+FontName=Monaco for Powerline 14
