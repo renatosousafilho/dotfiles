@@ -610,3 +610,9 @@ nnoremap <Leader>k :<C-u>silent! move-2<CR>==
 nnoremap <Leader>j :<C-u>silent! move+<CR>==
 vnoremap <Leader>k :<C-u>silent! '<,'>move-2<CR>gv=gv
 vnoremap <Leader>j :<C-u>silent! '<,'>move'>+<CR>gv=gv
+
+" surround word
+:nnoremap <Leader>q" ciw""<Esc>P
+:nnoremap <Leader>q' ciw''<Esc>P
+:nnoremap <Leader>qd daW"=substitute(@@,"'\\\|\"","","g")<CR>P
+
