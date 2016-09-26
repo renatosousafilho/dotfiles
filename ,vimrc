@@ -608,5 +608,5 @@ vnoremap <C-p> "+gP
 " move line up and above 
 nnoremap <Leader>k :<C-u>silent! move-2<CR>==
 nnoremap <Leader>j :<C-u>silent! move+<CR>==
-xnoremap <Leader>k :<C-u>silent! '<,'>move-2<CR>gv=gv
-xnoremap <Leader>j :<C-u>silent! '<,'>move'>+<CR>gv=gv
+vnoremap <Leader>k :<C-u>silent! '<,'>move-2<CR>gv=gv
+vnoremap <Leader>j :<C-u>silent! '<,'>move'>+<CR>gv=gv
